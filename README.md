@@ -1,2 +1,2 @@
-# lolyou
-lolyou's portfolio
+# lolyou.github.io
+
